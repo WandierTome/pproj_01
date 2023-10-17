@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    /* font-family: ; */
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    min-height: 500px;
+    background-image: url(/assets/imgs/main-bg2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
